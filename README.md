@@ -1,4 +1,3 @@
-# Machine-Learning-Project
 ## A Prediction Model of Detecting the Liver Diseases in  Patients using Logistic Regression of Machine Learning
 
 _Liver Diseases are prevalent in India accounting for 2.4% of Indian deaths per year_.
